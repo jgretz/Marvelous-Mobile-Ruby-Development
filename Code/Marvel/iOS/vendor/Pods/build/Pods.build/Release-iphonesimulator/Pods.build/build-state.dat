@@ -1,0 +1,85 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC build/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/.build/libPods.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F35760000000000A90C10
+t1394554230
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534815460000000000000198
+t1397232966
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F358000000000000003B4
+t1394554240
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F3584000000000000019E
+t1394554244
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F35960000000000000ADC
+t1394554262
+s2780
+
+N/Users/jgretz/Development/Talks/Marvelous Mobile Ruby Development/Code/Key/iOS/vendor/Pods/.build/libPods-AFNetworking.a
+c0000000053E2CC600000000000151190
+t1407372384
+s1380752
+
+N/Users/jgretz/Development/Talks/Marvelous Mobile Ruby Development/Code/Key/iOS/vendor/Pods/.build/libPods.a
+t2
+s0
+
+N/Users/jgretz/Development/Talks/Marvelous Mobile Ruby Development/Code/Key/iOS/vendor/Pods/Pods-dummy.m
+c0000000053E2CBB20000000000000070
+t1407372210
+s112
+
+N/Users/jgretz/Development/Talks/Marvelous Mobile Ruby Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+t1407372384
+s3244
+
+N/Users/jgretz/Development/Talks/Marvelous Mobile Ruby Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList
+c0000000053E2CC6000000000000000B0
+t1407372384
+s176
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesef5507e00393b941^a9be07e00393b941^---0#1#1#--18"Check dependencies36"DD01D992-3605-49A7-9CCA-1C9DB050CF27-
+
+CCompileC build/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429065184.030736
+e429065184.055281
+r1
+xCompileC
+xbuild/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+x/Users/jgretz/Development/Talks/Marvelous Mobile Ruby Development/Code/Key/iOS/vendor/Pods/Pods-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jgretz/Development/Talks/Marvelous Mobile Ruby Development/Code/Key/iOS/vendor/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/jgretz/Development/Talks/Marvelous Mobile Ruby Development/Code/Key/iOS/vendor/Pods/Pods-dummy.m174"CompileC build/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbff307e00393b941^18270ee00393b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/jgretz/Development/Talks/Marvelous%20Mobile%20Ruby%20Development/Code/Key/iOS/vendor/Pods/Pods-dummy.m0000000000000000^4392"CompileC build/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jgretz/Development/Talks/Marvelous Mobile Ruby Development/Code/Key/iOS/vendor/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jgretz/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/bin:/Users/jgretz/.rbenv/versions/2.1.1/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/jgretz/.rbenv/shims:/Users/jgretz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Pods-generated-files.hmap -I/Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Pods-own-target-headers.hmap -I/Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Pods-all-target-headers.hmap -iquote /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Pods-project-headers.hmap -I/Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/.build/include -I/Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/Pods/Headers -I/Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/Pods/Headers/AFNetworking -I/Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/DerivedSources -F/Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -isystem /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/Pods/Headers -isystem /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/Pods/Headers/AFNetworking -MMD -MT dependencies -MF /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.d --serialize-diagnostics /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.dia -c /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/Pods-dummy.m -o /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o36"942BBEDB-7DA3-4CF2-9909-A25498C2D9FC-
+bB22C80BA-3235-4F07-9CEA-6F49DF6242BF
+
+CLibtool /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/.build/libPods.a normal i386
+s429065184.055753
+e429065184.175059
+r1
+xLibtool
+x/Users/jgretz/Development/Talks/Marvelous Mobile Ruby Development/Code/Key/iOS/vendor/Pods/.build/libPods.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Libtool .build/libPods.a normal i38636"Libtool .build/libPods.a normal i3868a560ee00393b941^fad12ce00393b941^---0#0#1#--1302"Libtool .build/libPods.a normal i386    cd "/Users/jgretz/Development/Talks/Marvelous Mobile Ruby Development/Code/Key/iOS/vendor/Pods"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jgretz/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/bin:/Users/jgretz/.rbenv/versions/2.1.1/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/jgretz/.rbenv/shims:/Users/jgretz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/.build -filelist /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -o /Users/jgretz/Development/Talks/Marvelous\ Mobile\ Ruby\ Development/Code/Key/iOS/vendor/Pods/.build/libPods.a36"CBD288CD-9669-4CB2-A6D0-7C0C8168AB8C-
+bB22C80BA-3235-4F07-9CEA-6F49DF6242BF
+

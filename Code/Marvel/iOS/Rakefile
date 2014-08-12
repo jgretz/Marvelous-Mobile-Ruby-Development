@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+$:.unshift("/Library/RubyMotion/lib")
+require 'motion/project/template/ios'
+
+require 'afmotion'
+require 'rm-digest'
+
+require 'motion-require'
+Motion::Require.all(Dir.glob('../Android/src/Shared/services/**/*.rb'))
+Motion::Require.all(Dir.glob('../Android/src/Shared/models/**/*.rb'))
+
+Motion::Project::App.setup do |app|
+  # Use `rake config' to see complete project settings.
+  app.name = 'Marvelous'
+
+  app.pods do
+    pod 'AFNetworking'
+  end
+end
