@@ -1,8 +1,8 @@
 class Marvel
 	def initialize(http_service, hash_service)
 		@root_url = "http://gateway.marvel.com/v1/public"
-		@api_key = ""
-		@private_key = ""
+		@api_key = "4b3e8f04c699333aa0582ba2ddf82937"
+		@private_key = "046da1f6d0df9a39c84123b3445774736bb18475"
 
 		@http_service = http_service
 		@hash_service = hash_service
